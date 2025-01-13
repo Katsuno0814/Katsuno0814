@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Python, Java, and AWS to broaden my skill set and share greater knowledge with my students.
 -->
 - 👋 Hi, I’m @Katsuno0814
-- 🔭 I’m currently working on mentoring students at a programming school
+<!-- - 🔭 I’m currently working on mentoring students at a programming school -->
 
 [![RyoKatsuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsuno0814&theme=vue-dark&show_icons=true)](https://github.com/Katsuno0814/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsuno0814&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Katsuno0814/github-readme-stats)
